@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120">
+    <rect width="300" height="120" rx="12" fill="#0B1F3A"/>
+    <path d="M35 60 L75 25 L115 60 V95 H35 Z" fill="none" stroke="#D4AF37" stroke-width="5"/>
+    <path d="M60 95 V65 H90 V95" fill="none" stroke="#D4AF37" stroke-width="4"/>
+    <text x="135" y="58" font-size="23" font-weight="bold" fill="#D4AF37">HAVENKEY</text>
+    <text x="135" y="83" font-size="16" fill="#ffffff">REALTY</text>
+</svg>
